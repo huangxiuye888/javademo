@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/hello-app/hello-app.iml" filepath="$PROJECT_DIR$/hello-app/hello-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-app2/hello-app2.iml" filepath="$PROJECT_DIR$/hello-app2/hello-app2.iml" />
       <module fileurl="file://$PROJECT_DIR$/javase.iml" filepath="$PROJECT_DIR$/javase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
