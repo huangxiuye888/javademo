@@ -7,8 +7,6 @@
     <list default="true" id="b6194f43-3ba0-4878-81fd-0a06796b4426" name="Changes" comment="第一次提交">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello-app/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello-app/com/hxy/hello/HelloWorld.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +50,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.VariableDemo3">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hxy.hello.HelloWorld" />
-      <module name="hello-app" />
+  <component name="RunManager" selected="Application.StringApiDemo">
+    <configuration name="StringApiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hxy.string.StringApiDemo" />
+      <module name="api-app" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hxy.hello.*" />
+          <option name="PATTERN" value="com.hxy.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LiteraDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hxy.hello.literal.LiteraDemo" />
-      <module name="hello-app" />
+    <configuration name="StringDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hxy.string.StringDemo1" />
+      <module name="api-app" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hxy.hello.literal.*" />
+          <option name="PATTERN" value="com.hxy.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoteDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="note.NoteDemo" />
-      <module name="hello-app" />
+    <configuration name="StringEqualsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hxy.string.StringEqualsDemo" />
+      <module name="api-app" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="note.*" />
+          <option name="PATTERN" value="com.hxy.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hxy.hello.variable.VariableDemo1" />
-      <module name="hello-app" />
+    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hxy.javabean.User" />
+      <module name="oop-app" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hxy.hello.variable.*" />
+          <option name="PATTERN" value="com.hxy.javabean.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hxy.hello.variable.VariableDemo3" />
-      <module name="hello-app" />
+    <configuration name="com.hxy.encapsulation.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hxy.encapsulation.Test" />
+      <module name="oop-app" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hxy.hello.variable.*" />
+          <option name="PATTERN" value="com.hxy.encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VariableDemo3" />
-        <item itemvalue="Application.VariableDemo1" />
-        <item itemvalue="Application.LiteraDemo" />
-        <item itemvalue="Application.NoteDemo" />
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.StringApiDemo" />
+        <item itemvalue="Application.StringEqualsDemo" />
+        <item itemvalue="Application.StringDemo1" />
+        <item itemvalue="Application.User" />
+        <item itemvalue="Application.com.hxy.encapsulation.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +135,10 @@
       <option name="presentableId" value="Default" />
       <updated>1678194584057</updated>
       <workItem from="1678194584424" duration="2533000" />
-      <workItem from="1678273532362" duration="4127000" />
+      <workItem from="1678273532362" duration="4475000" />
+      <workItem from="1678451512452" duration="2967000" />
+      <workItem from="1678507493654" duration="12484000" />
+      <workItem from="1678593824470" duration="11831000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1678195640398</created>
