@@ -4,28 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca115dfc-a71c-4bee-825b-cfc6349e94af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/javademo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-demo/src/com/hxy/extendsdemo/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-demo/src/com/hxy/extendsdemo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-demo/src/com/hxy/extendsdemo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-demo/src/com/hxy/extendsdemo/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-demo/src/com/hxy/singleinstance/SingleInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-demo/src/com/hxy/singleinstance/SingleInstanceDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-demo/src/com/hxy/singleinstance/Text.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-demo/src/com/hxy/singleinstance/Text2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ca115dfc-a71c-4bee-825b-cfc6349e94af" name="Changes" comment="阿萨德">
+      <change afterPath="$PROJECT_DIR$/oop-demo2/oop-demo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-demo2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-demo2/src/com/hxy/_final/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-demo2/src/com/hxy/_package/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-demo2/src/com/hxy/_package/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-demo2/src/com/hxy/_package/it/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-demo2/src/com/hxy/_package/it2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-demo2/src/com/hxy/modifiler/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-demo2/src/com/hxy/modifiler/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-app/api-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/api-app/api-app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array-app/array-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/array-app/array-app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-app/hello-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-app/hello-app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/method-app/method-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/method-app/method-app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop-app/oop-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/oop-app/oop-app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop-demo/oop-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/oop-demo/oop-demo.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,28 +55,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
     "last_opened_file_path": "D:/javademo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "editor.preferences.import",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TestDemo">
-    <configuration name="StaticDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hxy.static_code.StaticDemo2" />
-      <module name="oop-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hxy.static_code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.com.hxy.modifiler.Test">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hxy.extendsdemo.Test" />
       <module name="oop-demo" />
@@ -113,19 +92,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hxy.singleinstance.Text" />
-      <module name="oop-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hxy.singleinstance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Text2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hxy.singleinstance.Text2" />
       <module name="oop-demo" />
@@ -139,13 +105,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.hxy._package.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hxy._package.Test" />
+      <module name="oop-demo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hxy._package.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.hxy.modifiler.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hxy.modifiler.Test" />
+      <module name="oop-demo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hxy.modifiler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.hxy.modifiler.Test" />
+        <item itemvalue="Application.com.hxy._package.Test" />
         <item itemvalue="Application.TestDemo" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Text2" />
-        <item itemvalue="Application.Text" />
-        <item itemvalue="Application.StaticDemo2" />
       </list>
     </recent_temporary>
   </component>
@@ -163,5 +155,24 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="阿萨德" />
+    <option name="LAST_COMMIT_MESSAGE" value="阿萨德" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
